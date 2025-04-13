@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9bdd7af9255490555893.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TIP-pr9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-pr9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-pr9-Debug-a697a35cc1bc032f605d.json",
+					"name" : "TIP-pr9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-pr9_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-pr9_autogen-Debug-b00baec9b56094011746.json",
+					"name" : "TIP-pr9_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TIP-pr9_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TIP-pr9_autogen_timestamp_deps-Debug-b0a9cb26f759e3a7bbae.json",
+					"name" : "TIP-pr9_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug",
+		"source" : "H:/projects/TIP-pr9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

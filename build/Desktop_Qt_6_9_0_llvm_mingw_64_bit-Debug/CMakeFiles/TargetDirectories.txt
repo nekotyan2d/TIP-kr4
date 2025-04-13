@@ -1,0 +1,9 @@
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/TIP-pr9.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/TIP-pr9_autogen_timestamp_deps.dir
+H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/CMakeFiles/TIP-pr9_autogen.dir
