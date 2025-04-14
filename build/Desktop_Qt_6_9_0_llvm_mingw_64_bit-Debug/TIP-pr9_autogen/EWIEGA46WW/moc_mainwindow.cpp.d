@@ -1,7 +1,9 @@
 H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autogen/EWIEGA46WW/moc_mainwindow.cpp: H:/projects/TIP-pr9/mainwindow.h \
   H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autogen/moc_predefs.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/QFile \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/QRegularExpression \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/QRegularExpressionMatch \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/QTextStream \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/q20iterator.h \
@@ -23,6 +25,7 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qcalendar.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qcompare_impl.h \
@@ -36,9 +39,15 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qcontiguouscache.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdir.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qdirlisting.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qendian.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qfile.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qfiledevice.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qfileinfo.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qfloat16.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qforeach.h \
@@ -49,12 +58,14 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qglobalstatic.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qhash.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qiodevice.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qiterator.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qline.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qmap.h \
@@ -112,6 +123,7 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtenvironmentvariables.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtextstream.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtimezone.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtnoop.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -122,6 +134,7 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtCore/qvarlengtharray.h \
@@ -154,10 +167,12 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/6.9.0/llvm-mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/QFileDialog \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/QMessageBox \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qdialogbuttonbox.h \
+  C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qfiledialog.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.9.0/llvm-mingw_64/include/QtWidgets/qsizepolicy.h \
@@ -493,6 +508,22 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__exception/nested_exception.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__exception/operations.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__exception/terminate.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/copy_options.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/directory_entry.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/directory_iterator.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/directory_options.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/file_status.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/file_time_type.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/file_type.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/filesystem_error.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/operations.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/path.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/path_iterator.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/perm_options.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/perms.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/recursive_directory_iterator.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/space_info.h \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__filesystem/u8path.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__format/buffer.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__format/concepts.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/__format/enable_insertable.h \
@@ -854,6 +885,7 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/array \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/atomic \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/bit \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/bitset \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/cassert \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/cctype \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/cerrno \
@@ -876,10 +908,13 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/errno.h \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/exception \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/execution \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/filesystem \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/functional \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/initializer_list \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/iomanip \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/ios \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/iosfwd \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/istream \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/iterator \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/limits \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/limits.h \
@@ -893,6 +928,7 @@ H:/projects/TIP-pr9/build/Desktop_Qt_6_9_0_llvm_mingw_64_bit-Debug/TIP-pr9_autog
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/new \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/numeric \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/optional \
+  C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/ostream \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/ratio \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/set \
   C:/Qt/Tools/llvm-mingw1706_64/include/c++/v1/stdbool.h \
