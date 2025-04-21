@@ -20,7 +20,7 @@ void MainWindow::updateVars(){
     }
 
     fio = ui->e_fio->text();
-    if(!QRegularExpression("^[А-Я][а-я]{1,14}+\\s[А-Я][а-я]{1,14}+\\s[А-Я][а-я]{1,14}+$").match(fio).hasMatch()){
+    if(!QRegularExpression("^[А-Я][а-я]{1,14}\\s[А-Я][а-я]{1,14}\\s[А-Я][а-я]{1,14}$").match(fio).hasMatch()){
         throw QString("ФИО введено некорректно");
     }
 
